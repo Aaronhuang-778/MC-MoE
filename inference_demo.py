@@ -33,10 +33,6 @@ outputs = model.generate(inputs.input_ids,
                         max_new_tokens=512,
                         pad_token_id=tokenizer.eos_token_id,
                         repetition_penalty=1.1,
-                        do_sample=True,
-                        temperature=0.7,
-                        top_p=0.95,
-                        top_k=40,
                         )
 
 print(tokenizer.decode(outputs[0]))
