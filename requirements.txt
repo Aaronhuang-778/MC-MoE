@@ -1,0 +1,16 @@
+numpy==1.26.4
+openai==1.30.3
+packaging==24.0
+pandas==2.2.2
+Requests==2.32.2
+scikit_learn==1.4.1.post1
+scipy==1.13.1
+torch==2.2.1
+tqdm>=4.66.3
+transformers>=4.36.1
+termcolor
+huggingface_hub
+accelerate
+einops
+gurobipy
+pickle

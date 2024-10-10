@@ -1,0 +1,3 @@
+# ninja log v5
+1	32570	1720062248250614131	/mnt/afs/yliao/Tasks/moe/hqq/hqq/kernels/build/temp.linux-x86_64-cpython-310/hqq_aten_cuda.o	40a7984edb54c8a1
+1	81356	1720062296979249016	/mnt/afs/yliao/Tasks/moe/hqq/hqq/kernels/build/temp.linux-x86_64-cpython-310/hqq_aten_cuda_kernel.o	9b5c23a73f842c45
