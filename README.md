@@ -4,7 +4,7 @@
 
 # MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More
 
-[Wei Huang](https://aaron-weihuang.com/), [Yue Liao](https://scholar.google.com/citations?user=mIt-3fEAAAAJ&hl=en), [Jianhui Liu](https://scholar.google.com/citations?user=n1JW-jYAAAAJ&hl=en), [Ruifei He](https://scholar.google.com/citations?user=P7IL0hkAAAAJ), [Haoru Tan](), [Shiming Zhang](), [Hongsheng Li](https://scholar.google.com/citations?user=BN2Ze-QAAAAJ&hl=zh-CN), [Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ&hl=en) and [Xiaojuan Qi*](https://scholar.google.com/citations?user=bGn0uacAAAAJ&hl=en) (* coresponding author)
+[Wei Huang](https://aaron-weihuang.com/), [Yue Liao](https://scholar.google.com/citations?user=mIt-3fEAAAAJ&hl=en), [Jianhui Liu](https://scholar.google.com/citations?user=n1JW-jYAAAAJ&hl=en), [Ruifei He](https://scholar.google.com/citations?user=P7IL0hkAAAAJ), [Haoru Tan](), [Shiming Zhang](), [Hongsheng Li](https://scholar.google.com/citations?user=BN2Ze-QAAAAJ&hl=zh-CN), [Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ&hl=en) and [Xiaojuan Qi*](https://scholar.google.com/citations?user=bGn0uacAAAAJ&hl=en) (* corresponding author)
 
 [![arXiv](https://img.shields.io/badge/MCMoE-2410.06270-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.06270)
 
