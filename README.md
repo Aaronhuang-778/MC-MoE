@@ -16,7 +16,7 @@ Extreme compression of Mixture-of-Experts Large Language Models. The current rel
 
 - MC-MoE for accurate weight-only quantization (Weight=**1.5～2.5bit**).
 - MC-MoE for efficient online dynamic pruning (additional compression ratio **> 10%**)
-- Support pre-trained MoE-LLM (currently only support **Mixtral 8$\times$7b** and **Mixtral 8$\times$22b**)
+- Support pre-trained MoE-LLM (currently only support **Mixtral 8 $\times$ 7b** and **Mixtral 8 $\times$ 22b**)
 - Real deployment and dequantization process is built on `HQQ` and `GPTQ` for vanilla group-wise quantization. MC-MoE's static quantization can also be transfered to other type of technique, such as Vector Quantization (codebook).
 
 ## Install
@@ -34,11 +34,11 @@ For real quantization and deployment of compressed model, we utilize [HQQ](https
 Please make sure you have a Pytorch 2 version that matches your CUDA version: https://pytorch.org/.
 
 ## Experts Precision Zoo
-We provide the solved bit-width for each expert of **Mixtral 8$\times$7b** in `./experts_mixture_bit_selection/`. You can directly use our provided results or generate them by your self.
+We provide the solved bit-width for each expert of **Mixtral 8 $\times$ 7b** in `./experts_mixture_bit_selection/`. You can directly use our provided results or generate them by your self.
 
 ## Usage
 
-**Quickly get the compressed model `./scripts/quant.sh`**. We have already provided all the needed middle results of **Mixtral 8$\times$7b** in this code.
+**Quickly get the compressed model `./scripts/quant.sh`**. We have already provided all the needed middle results of **Mixtral 8 $\times$ 7b** in this code.
 
 ```sh
 # Replace the path with yours, for example:
